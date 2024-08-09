@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consolidator", "Consolidator\Consolidator.csproj", "{91B47054-7AE5-40C9-8221-86F207614BDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWPF", "TestWPF\TestWPF.csproj", "{A134E507-36B4-4718-AC5B-EDAC18ACE761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{C2194B27-38B8-4E3D-B97F-C0E6E1752F70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{91B47054-7AE5-40C9-8221-86F207614BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91B47054-7AE5-40C9-8221-86F207614BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91B47054-7AE5-40C9-8221-86F207614BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A134E507-36B4-4718-AC5B-EDAC18ACE761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A134E507-36B4-4718-AC5B-EDAC18ACE761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A134E507-36B4-4718-AC5B-EDAC18ACE761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A134E507-36B4-4718-AC5B-EDAC18ACE761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2194B27-38B8-4E3D-B97F-C0E6E1752F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2194B27-38B8-4E3D-B97F-C0E6E1752F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2194B27-38B8-4E3D-B97F-C0E6E1752F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2194B27-38B8-4E3D-B97F-C0E6E1752F70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
